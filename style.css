@@ -1,11 +1,12 @@
 :root {
-    --primary-color: #6c63ff;
+    --primary-color: #2f6db3;
     --secondary-color: #f5f2fe;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   }
   
   body {
     margin: 60px auto;
+    background: url(/images/pexels-uri-espinosa-375374.jpg);
   }
   .about-body {
     margin: 60px auto;
@@ -18,6 +19,7 @@
     text-align: center;
     margin: 0;
     font-family: "Montserrat", sans-serif;
+    color:#1c0738;
   }
   .center {
     text-align: center;
