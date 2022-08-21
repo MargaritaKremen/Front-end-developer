@@ -6,7 +6,7 @@
   
   body {
     margin: 60px auto;
-    background: url(/images/pexels-uri-espinosa-375374.jpg);
+    background: url(/images/pexels-uri-espinosa-375374.jpg) no-repeat ;
   }
   .about-body {
     margin: 60px auto;
@@ -100,6 +100,8 @@
   .img-fluid {
     max-width: 100%;
     height: auto;
+    border: 4px solid;
+    border-color: #1c073843;
   }
   .primary-link {
     border-radius: 4px;
